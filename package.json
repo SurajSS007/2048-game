@@ -1,0 +1,23 @@
+{
+  "name": "MS_Grid-game_Lupus_Tep_Online_Full-time_2020_4",
+  "version": "1.0.0",
+  "description": "## Learning Competencies At the end of this milestone you will learn  - Breaking down the problem  - Building web pages  - Creating efficient animations for web games  - Manipulating the document structure by using Document Object Model (DOM)  - Storing your application data in the client-side database  - Working with server and fetching data from it by manipulating it  - Process of developing a product",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Grid-game_Lupus_Tep_Online_Full-time_2020_4.git"
+  },
+  "keywords": [],
+  "author": "Suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Grid-game_Lupus_Tep_Online_Full-time_2020_4/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Grid-game_Lupus_Tep_Online_Full-time_2020_4#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
